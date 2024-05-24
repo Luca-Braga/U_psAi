@@ -13,14 +13,14 @@ Recomendações Personalizadas: Recomenda ferramentas de autocuidado, aplicativo
 Acesso a Serviços: Direciona os universitários para serviços de apoio psicológico e psiquiátrico disponíveis na universidade e na comunidade, facilitando o acesso à ajuda profissional.
 Benefícios do Chatbot:
 
-Acessibilidade 24/7: O chatbot está disponível 24 horas por dia, 7 dias por semana, permitindo que os universitários busquem apoio a qualquer momento, mesmo fora do horário comercial dos serviços tradicionais.
-Abordagem Informal e Amigável: A linguagem utilizada pelo chatbot é informal e amigável, facilitando a interação e tornando a experiência mais acolhedora.
 Quebra de Barreiras: O chatbot pode ajudar a reduzir o estigma em torno da saúde mental, incentivando os universitários a buscar ajuda sem receio.
 Complementaridade com Serviços Profissionais: O chatbot funciona como um complemento aos serviços profissionais de saúde mental, oferecendo suporte imediato e direcionando os universitários para o cuidado especializado quando necessário.
 
-Desenvolvimento no Google Colab:
+Desenvolvido no Google Colab:
 
-O Google Colab oferece um ambiente de notebook na nuvem, facilitando o desenvolvimento e a implementação do chatbot U_psAi. Através da Gemini API, é possível acessar os modelos de linguagem avançados do Google e integrá-los ao chatbot, permitindo que ele processe e compreenda a linguagem natural de forma eficaz. Linguagem Python.
+O Google Colab oferece um ambiente de notebook na nuvem. 
+Através da Gemini API. 
+Linguagem Python.
 
 Conclusão:
 
