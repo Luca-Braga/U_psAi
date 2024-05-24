@@ -11,7 +11,6 @@ Informações Confiáveis: Fornece informações confiáveis e atualizadas sobre
 Orientação e Apoio: Oferece orientação e apoio emocional, ajudando os universitários a identificar seus pontos fortes, desenvolver mecanismos de enfrentamento e buscar ajuda profissional quando necessário.
 Recomendações Personalizadas: Recomenda ferramentas de autocuidado, aplicativos de mindfulness, técnicas de relaxamento e outras atividades que podem promover o bem-estar mental, de acordo com as necessidades individuais.
 Acesso a Serviços: Direciona os universitários para serviços de apoio psicológico e psiquiátrico disponíveis na universidade e na comunidade, facilitando o acesso à ajuda profissional.
-Benefícios do Chatbot:
 
 Quebra de Barreiras: O chatbot pode ajudar a reduzir o estigma em torno da saúde mental, incentivando os universitários a buscar ajuda sem receio.
 Complementaridade com Serviços Profissionais: O chatbot funciona como um complemento aos serviços profissionais de saúde mental, oferecendo suporte imediato e direcionando os universitários para o cuidado especializado quando necessário.
