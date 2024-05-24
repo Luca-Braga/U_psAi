@@ -20,19 +20,10 @@ Complementaridade com Serviços Profissionais: O chatbot funciona como um comple
 
 Desenvolvimento no Google Colab:
 
-O Google Colab oferece um ambiente de notebook na nuvem, facilitando o desenvolvimento e a implementação do chatbot U_psAi. Através da Gemini API, é possível acessar os modelos de linguagem avançados do Google e integrá-los ao chatbot, permitindo que ele processe e compreenda a linguagem natural de forma eficaz.
+O Google Colab oferece um ambiente de notebook na nuvem, facilitando o desenvolvimento e a implementação do chatbot U_psAi. Através da Gemini API, é possível acessar os modelos de linguagem avançados do Google e integrá-los ao chatbot, permitindo que ele processe e compreenda a linguagem natural de forma eficaz. Linguagem Python.
 
 Conclusão:
 
-O chatbot U_psAi se configura como uma ferramenta valiosa para promover a saúde mental e prevenir transtornos mentais em universitários. Através da combinação de tecnologia inovadora, linguagem amigável e acesso facilitado à informação e ao apoio, o chatbot tem o potencial de contribuir significativamente para o bem-estar dos estudantes e para a criação de um ambiente acadêmico mais positivo e acolhedor.
+Este projeto foi desenvolvido como resultado da imersão promovida pela Alura em parceria com o Google.
 
-Próximos Passos:
-
-Aprimoramento Contínuo: O chatbot U_psAi está em constante aprimoramento, com a adição de novas funcionalidades, a atualização de informações e o aperfeiçoamento da interação com os usuários.
-Pesquisa e Avaliação: Estudos e pesquisas estão sendo realizados para avaliar a efetividade do chatbot na promoção da saúde mental e na prevenção de transtornos mentais em universitários.
-Expansão do Alcance: O projeto busca expandir seu alcance para outras instituições de ensino e para a comunidade em geral, tornando a ferramenta acessível a um público mais amplo.
-Observações:
-
-Este projeto foi desenvolvido como resultado da imersão "Desenvolvimento de um Sistema Inteligente para Promoção da Saúde Mental e Prevenção de Transtornos Mentais em Universitários", promovida pela Alura em parceria com o Google.
-O código-fonte do chatbot está disponível em um repositório público no GitHub para consulta e colaboração da comunidade.
-Acredito que o U_psAi tem o potencial de fazer a diferença na vida de muitos universitários, promovendo o bem-estar mental e construindo um futuro mais saudável para todos.
+Luciana Braga
